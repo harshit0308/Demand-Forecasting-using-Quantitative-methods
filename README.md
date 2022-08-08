@@ -5,7 +5,7 @@ The purpose of this project is to observe trend and seasonality in the sales of 
 
 ## Tools Used
 1. Seaborn, matplotlib for visualizing graphs.
-2. Statsmodels for exponentioal smoothing, ARIMA.
+2. Statsmodels for **exponentioal smoothing**, **ARIMA**.
 3. Sklearn for regression.
 
 ## Data:
@@ -13,14 +13,14 @@ Data was taken from kaggle. CSV file is present in this repository.
 
 ## Data Visualization:
 1. Lineplot to visualize trend in the data.
-2. ACF and PACF plots for identifying autocorrelation.
-3. Heat map for identifying correlation in the new created features.
+2. **ACF** and **PACF** plots for identifying autocorrelation.
+3. **Heat map** for identifying correlation in the new created features.
 
 ## Quantitative Methods Implemented:
-1. Holt WInters Model
-2. ARIMA - Autoregressive integrated Moving Average
-3. SARIMA - Seasonal ARIMA
-4. Causal Model - Linear Regression Model
+1. **Holt Winters** Model
+2. **ARIMA** - Autoregressive integrated Moving Average
+3. **SARIMA** - Seasonal ARIMA
+4. **Causal Model** - Linear Regression Model
 
 ## Conclusions:
 | Method  | MSE |MAPE|
