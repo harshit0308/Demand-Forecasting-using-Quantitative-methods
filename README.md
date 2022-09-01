@@ -1,4 +1,4 @@
-# Demand-Forecasting-using-Quantitative-methods
+# Demand/Sales-Forecasting-using-Quantitative-methods
 
 ## Project Description:
 The purpose of this project is to observe trend and seasonality in the sales of products and applying different timeseries and causal models to predict sales for future periods and to choose the best model that has lower mean absolute percentage error.
